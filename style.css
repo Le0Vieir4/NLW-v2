@@ -633,8 +633,7 @@ footer .social-links {
   #about .content p {
     margin-bottom: 0;
   }
-}
-/*============Contact============*/
+  /*============Contact============*/
 
 #contact .wrapper {
   grid-template-columns: 1fr 57.5rem;
@@ -664,3 +663,5 @@ footer .col-b {
 footer p {
   margin-bottom: 0;
 }
+}
+
